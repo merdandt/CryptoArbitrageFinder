@@ -1,0 +1,20 @@
+[
+    {"id": "bitcoin", "ticker": "btc"},
+    {"id": "ethereum", "ticker": "eth"},
+    {"id": "ripple", "ticker": "xrp"},
+    {"id": "litecoin", "ticker": "ltc"},
+    {"id": "cardano", "ticker": "ada"},
+    {"id": "bitcoin-cash", "ticker": "bch"},
+    {"id": "eos", "ticker": "eos"},
+    {"id": "binancecoin", "ticker": "bnb"},
+    {"id": "polkadot", "ticker": "dot"},
+    {"id": "dogecoin", "ticker": "doge"},
+    {"id": "solana", "ticker": "sol"},
+    {"id": "chainlink", "ticker": "link"},
+    {"id": "stellar", "ticker": "xlm"},
+    {"id": "avalanche-2", "ticker": "avax"},
+    {"id": "shiba-inu", "ticker": "shib"},
+    {"id": "tron", "ticker": "trx"},
+    {"id": "monero", "ticker": "xmr"},
+    {"id": "the-open-network", "ticker": "ton"}
+  ]
