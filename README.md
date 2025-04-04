@@ -1,5 +1,7 @@
 # Crypto Arbitrage Finder
 
+![Crypto Arbitrage Finder App Screenshot](assets/1.png)
+
 ## Description
 
 This Streamlit application identifies potential arbitrage opportunities within cryptocurrency markets by analyzing exchange rates fetched in real-time from the CoinGecko API. Arbitrage opportunities arise from temporary price discrepancies across different trading paths. This tool models these paths as a graph and calculates the potential profitability (or loss) of specific multi-step conversion sequences, highlighting market inefficiencies.
